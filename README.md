@@ -25,7 +25,7 @@ Feel free to explore my portfolio and check out some of the projects I’ve work
 
 ## 📎 More About Me
 - [Resume](https://drive.google.com/file/d/1C4kEVZPAEKut3xkmYiEGVHOyXDgJPyuf/view?usp=sharing)
-- [LinkedIn](linkedin.com/in/cninofra)
+- [LinkedIn](https://linkedin.com/in/cninofra)
 
 ## 📬 Get in Touch
 - [Email me](mailto:canino@ucdavis.edu)
