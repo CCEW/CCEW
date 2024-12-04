@@ -17,7 +17,7 @@ Feel free to explore my portfolio and check out some of the projects I’ve work
 - **Languages**: Python, JavaScript, C++, C, HTML/CSS
 - **Machine Learning**: Pandas, Scikit-learn, TensorFlow, Keras, XGBoost, NumPy, Matplotlib, Seaborn
 - **Tools**: Jupyter Notebook, PyCharm, Streamlit, Git, Linux Command Line (WSL), Git, GitHub
-- **Languages**: English [Professional Working Fluency], Spanish [Professional Working Fluency], Italian [Intermediate].
+- **Languages**: English [Fluent], Spanish [Native], Italian [Intermediate].
 
 ## 🎯 Achievements
 - Winner of **Best Execution** at the AI Student Collective organization for Song Genre Classification project.
