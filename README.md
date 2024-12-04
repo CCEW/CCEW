@@ -3,7 +3,7 @@ A **Computer Science and Engineering** student at **UC Davis**, passionate about
 
 Through both academic coursework and hands-on projects, I've developed a strong foundation in programming, problem-solving, and collaboration. I am particularly excited about working with **Object-Oriented programming** and **AI/ML**, with past experiences in projects such as **Minecraft XYZ** and **Song Genre Classification**. I have experience using **Python**, **C++**, **HTML/CSS**, and tools like **Pycharm**, **Git**, and **VS Code**.
 
-In addition to technical projects, I’m an active member of student organizations like the **CS Tutoring Club**, where I serve as the **Logistics Officer** and contribute to initiatives that bring together students, professors, and industry leaders. I also enjoy working on group projects in club organizations like Google developersstudent 
+In addition to technical projects, I’m an active member of student organizations like the **CS Tutoring Club**, where I serve as the **Logistics Officer** and contribute to initiatives that bring together students, professors, and industry leaders. I also enjoy working on group projects in club organizations like Google Developer Student Club.
 
 My goal is to continue developing my technical and leadership skills, contribute to innovative projects, and grow within the tech industry. I'm excited about pursuing a career in software engineering, where I can apply my knowledge to solve complex problems and work in a collaborative, fast-paced environment.
 
