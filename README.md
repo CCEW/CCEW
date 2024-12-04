@@ -14,9 +14,9 @@ Feel free to explore my portfolio and check out some of the projects I’ve work
 - [**Minecraft 2D XYZ**](https://github.com/CCEW/Project-CS1111): An object-oriented, 2D world-building game in Python, where players can explore a procedurally generated 30x20 grid world, interact with various objects (trees, rocks, etc.), collect resources (wood and stone), and build or destroy blocks within the environment.
 
 ## 🔧 Skills & Technologies
-- **Languages**: Python, JavaScript, C++, C, HTML/CSS
+- **Languages**: Python, JavaScript, C++, C, MATLAB.
 - **Machine Learning**: Pandas, Scikit-learn, TensorFlow, Keras, XGBoost, NumPy, Matplotlib, Seaborn
-- **Tools**: Jupyter Notebook, PyCharm, Streamlit, Git, Linux Command Line (WSL), Git, GitHub
+- **Tools**: Jupyter Notebook, Streamlit, Git, Linux, Git, GitHub, HTML/CSS
 - **Languages**: English [Fluent], Spanish [Native], Italian [Intermediate].
 
 ## 🎯 Achievements
