@@ -13,7 +13,6 @@ Feel free to explore my portfolio and check out some of the projects I’ve work
 - [**Vaccuum Diagnostics**](https://github.com/CCEW/vacuum_diagnostics) A machine learning project in Python that detects anomalies/system disturbances (sudden manipulations, pump instabilities, potential leaks) with the Isolation Forest model.
 - [**CowCulator**](https://github.com/GDSC-UCD-Cohort-24-25/Chroma) A full-stack budget tracking website built in React(Typescript) and Node.js, featuring user authentication with JWT, data storage and manipulation via RESTful APIs and MongoDB (Mongoose), and deployed using Vite.
 - [**Song Genre Classification**](https://github.com/ReehalS/TeamTBD_SongClassifier): A machine learning project for classifying song into genres using the XGB model that achieved 78% accuracy.
-- [**Minecraft 2D XYZ**](https://github.com/CCEW/Project-CS1111): An object-oriented, 2D world-building game in Python, where players can explore a procedurally generated 30x20 grid world, interact with various objects (trees, rocks, etc.), collect resources (wood and stone), and build or destroy blocks within the environment.
 
 ## 🔧 Skills & Technologies
 - **Programming languages**: Python, JavaScript, C++, C, MATLAB, TypeScript
