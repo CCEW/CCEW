@@ -17,7 +17,7 @@ Feel free to explore my portfolio and check out some of the projects I’ve work
 ## 🔧 Skills & Technologies
 - **Programming languages**: Python, JavaScript, C++, C, MATLAB, TypeScript
 - **Frameworks/Libraries**: React, Node.js, Express.js, MongoDB (Mongoose), RESTful APIs, Pandas, Scikit-learn, TensorFlow, NumPy, Matplotlib
-- **Tools**: Jupyter Notebook, Bash, Linux, Git/GitHub, HTML/CSS, Vite, Figma
+- **Tools**: Jupyter Notebook, Bash, Linux, Git/GitHub, HTML/CSS, Vite, Figma, Streamlit
 - **Languages**: English [Fluent], Spanish [Native].
 
 ## 🎯 Achievements
