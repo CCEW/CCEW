@@ -55,9 +55,9 @@ Feel free to explore my portfolio and check out some of the projects I’ve work
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CCEW&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCEW&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CCEW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCEW&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=6&include_all_commits&count_private=true" width="40%"/>
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CCEW&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CCEW&theme=tokyonight&hide_border=true&count_private=true&include_all_commits" width="48%"/>
 </p>
