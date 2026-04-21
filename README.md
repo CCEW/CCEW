@@ -3,7 +3,7 @@ A **Computer Science and Engineering** student at **UC Davis** with a minor in *
 
 Through both academic coursework and hands-on projects, I've developed a strong foundation in programming, problem-solving, and collaboration. I am particularly excited about working in **Software**, **ML**, and **Automation**, with past experiences in projects such as **Stock Predictor dashboard**, **CowCulator** and **Vacuum Diagnostics**. I have experience using **Python**, **C++**, **JavaScript**, and tools like **Git** for version control.
 
-In addition to technical projects, I’m an active member of student organizations like the **CS Tutoring Club**, where I serve as the **VP of Logistics** and contribute to initiatives that bring together students, professors, and industry leaders. I also enjoy helping **research** in the UCD Electrical and Computer Engineering (ECE) lab for the [**Vacuum Microelectronics Research Group**](https://huntgroup.ucdavis.edu/).
+In addition to technical projects, I’m an active member of student organizations like the **CS Tutoring Club** and **Google Developer Student Club**, where I serve as the **VP of Logistics/Events**. I also enjoy helping as a **Research Assistant** in the Multi-frame Gated X-Ray Imager (MGXI) lab project for the [**Vacuum Microelectronics Research Group**](https://huntgroup.ucdavis.edu/).
 
 My goal is to continue developing my technical and leadership skills, contribute to innovative projects, and grow within the tech industry. I'm excited about pursuing a career in software engineering, where I can apply my knowledge to solve complex problems and work in a collaborative, fast-paced environment.
 
