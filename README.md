@@ -51,13 +51,29 @@ Feel free to explore my portfolio and check out some of the projects I’ve work
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CCEW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCEW&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=6&include_all_commits&count_private=true" width="40%"/>
+  <a
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CCEW&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Stats"
+    width="48%"
+  />
+
+  <a
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CCEW&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=6"
+    alt="Top Languages"
+    width="40%"
+  />
 </p>
+
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CCEW&theme=tokyonight&hide_border=true&count_private=true&include_all_commits" width="48%"/>
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=ccew&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+      width="48%"
+    />
+  </a>
 </p>
